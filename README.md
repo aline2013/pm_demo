@@ -1,2 +1,2 @@
 # pm_demo
-pm demo
+pm demo~
